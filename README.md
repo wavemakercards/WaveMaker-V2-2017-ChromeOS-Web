@@ -13,7 +13,7 @@ Download the Zip file and unpack it on your computer where ever you want
 
 - Enable Developer mode by going to  : [chrome://extensions/](chrome://extensions/)
 
-- Top right hand corner flick the toggle switch
+- Top right hand corner flick the "Developer Mode" toggle switch
 
 - A button should appear with "Load Unpacked Extension"
 
@@ -23,6 +23,8 @@ Download the Zip file and unpack it on your computer where ever you want
 
 
 Enjoy.
+
+You will get a pop up warning telling you chrome is in dev mode every now and again is the only Con
 
 ## For developers
 
