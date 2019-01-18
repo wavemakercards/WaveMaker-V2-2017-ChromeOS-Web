@@ -11,13 +11,20 @@ Download the Zip file and unpack it on your computer where ever you want
 
 *You will need Google Chrome for these instructions, but opera, chromium and other blink based browsers should be similar.*
 
-Enable Developer mode by going to  : [chrome://extensions/](chrome://extensions/)
-Top right hand corner flick the toggle switch
-A button should appear with "Load Unpacked Extension"
-Press this and point it at the folder with Wavemaker in
-Then visit [chrome://apps/](chrome://apps/) and you should see the icon there.
+- Enable Developer mode by going to  : [chrome://extensions/](chrome://extensions/)
+
+- Top right hand corner flick the "Developer Mode" toggle switch
+
+- A button should appear with "Load Unpacked Extension"
+
+- Press this and point it at the folder with Wavemaker in
+
+- Then visit [chrome://apps/](chrome://apps/) and you should see the icon there.
+
 
 Enjoy.
+
+You will get a pop up warning telling you chrome is in dev mode every now and again is the only Con
 
 ## For developers
 
