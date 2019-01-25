@@ -131,7 +131,7 @@ function saveDataChrome() {
 
   if (chosenFileEntry) {
     myname = chosenFileEntry.name;
-    var blob = new Blob([JSON.stringify(WaveMaker)], {
+    var blob = new Blob([JSON.stringify(WaveMaker, null, 2)], {
       type: "text/json"
     });
     writeFileEntry(chosenFileEntry, blob, function (e) {
@@ -154,7 +154,7 @@ function saveDataChrome() {
         $("#saveAlert").fadeOut();
         autosaveTrigger = true;
       } else {
-        var blob = new Blob([JSON.stringify(WaveMaker)], {
+        var blob = new Blob([JSON.stringify(WaveMaker, null, 2)], {
           type: "text/json"
         });
         chosenFileEntry = writableEntry;
@@ -348,7 +348,7 @@ function electronLoad() {
 function saveDataElectron() {
   $("#saveAlert").show();
   console.log("save Triggered");
-  let content = JSON.stringify(WaveMaker);
+  let content = JSON.stringify(WaveMaker, null, 2);
   const { dialog } = require("electron").remote;
   fs = require("fs");
   // You can obviously give a direct path without use the dialog (C:/Program Files/path/myfileexample.txt)
