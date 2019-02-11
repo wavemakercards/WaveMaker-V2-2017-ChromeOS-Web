@@ -4,6 +4,7 @@ This is the Open Source version I'm releasing into the wild. It's built using HT
 It was not planned but sorta-kinda-happened as the code will show. Which is why version 3 up is a total rebuild!
 It will run on pretty much any device as well as on the web, and you can locally install on any desktop.
 
+The LATEST version of this software (not this version) is available at https://wavemaker.cards 
 
 If you want to support me become a patron https://www.patreon.com/wavemakercards
 
