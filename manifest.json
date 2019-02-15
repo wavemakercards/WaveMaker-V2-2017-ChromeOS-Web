@@ -1,8 +1,8 @@
 {
   "update_url": "https://clients2.google.com/service/update2/crx",
-  "name": "Wavemaker novel writing & planning software",
+  "name": "(Old) Wavemaker novel writing & planning software",
   "description": " A fully offline novel writing and planning software tool for ChromeOS. Much more than just a word processor.",
-  "version": "2.8.4",
+  "version": "2.8.6",
   "manifest_version": 2,
   "app": {
     "background": {
