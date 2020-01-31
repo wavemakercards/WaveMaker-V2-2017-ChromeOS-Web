@@ -16,7 +16,7 @@ Download the Zip file and unpack it on your computer where ever you want
 
 *You will need Google Chrome for these instructions, but opera, chromium and other blink based browsers should be similar.*
 
-- Download the ZIP file (2-8-8.zip) and unzip the contents somewhere on your computer
+- Download the ZIP file (StandaloneChromeApp.zip) and unzip the contents somewhere on your computer
 
 - Make sure you have google chrome installed
 
